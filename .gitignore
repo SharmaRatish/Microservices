@@ -3,3 +3,7 @@
 ################################################################################
 
 /eCommerceSolution.UserService/.vs
+/eCommerceSolution.UserService/eCommerceAPI/bin/Debug/net8.0
+/eCommerceSolution.UserService/eCommerce.Core/obj/Debug/net8.0
+/eCommerceSolution.UserService/eCommerce.Infrastructure/obj/Debug/net8.0
+/eCommerceSolution.UserService/eCommerceAPI/obj/Debug/net8.0
