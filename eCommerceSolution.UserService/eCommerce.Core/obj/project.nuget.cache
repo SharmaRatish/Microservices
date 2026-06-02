@@ -1,21 +1,23 @@
 {
   "version": 2,
-  "dgSpecHash": "8K5itgdE1oH7dcXljLGewcA7H7sWbRiHqRhBaZEb7APJuK9Wjer27iwDaUhZJrImUnVd1cL8tAMC7dmZ9w8+dQ==",
+  "dgSpecHash": "QNCQVhB6yAs=",
   "success": true,
-  "projectFilePath": "D:\\Udamy Learning .NET Project\\.NET Microservices with Azure DevOps & AKS  Basic to Master\\eCommerceSolution.UserService\\eCommerce.Core\\eCommerce.Core.csproj",
+  "projectFilePath": "F:\\RK_Sharma\\Microservices\\eCommerceSolution.UserService\\eCommerce.Core\\eCommerce.Core.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\asus\\.nuget\\packages\\automapper\\13.0.1\\automapper.13.0.1.nupkg.sha512",
-    "C:\\Users\\asus\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.0\\microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512",
-    "C:\\Users\\asus\\.nuget\\packages\\microsoft.extensions.options\\6.0.0\\microsoft.extensions.options.6.0.0.nupkg.sha512",
-    "C:\\Users\\asus\\.nuget\\packages\\microsoft.extensions.primitives\\6.0.0\\microsoft.extensions.primitives.6.0.0.nupkg.sha512",
-    "C:\\Users\\asus\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+    "C:\\Users\\admin\\.nuget\\packages\\automapper\\13.0.1\\automapper.13.0.1.nupkg.sha512",
+    "C:\\Users\\admin\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.0\\microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\admin\\.nuget\\packages\\microsoft.extensions.options\\6.0.0\\microsoft.extensions.options.6.0.0.nupkg.sha512",
+    "C:\\Users\\admin\\.nuget\\packages\\microsoft.extensions.primitives\\6.0.0\\microsoft.extensions.primitives.6.0.0.nupkg.sha512",
+    "C:\\Users\\admin\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
   ],
   "logs": [
     {
       "code": "NU1903",
       "level": "Warning",
-      "warningLevel": 1,
       "message": "Package 'AutoMapper' 13.0.1 has a known high severity vulnerability, https://github.com/advisories/GHSA-rvv3-g6hj-g44x",
+      "projectPath": "F:\\RK_Sharma\\Microservices\\eCommerceSolution.UserService\\eCommerce.Core\\eCommerce.Core.csproj",
+      "warningLevel": 1,
+      "filePath": "F:\\RK_Sharma\\Microservices\\eCommerceSolution.UserService\\eCommerce.Core\\eCommerce.Core.csproj",
       "libraryId": "AutoMapper",
       "targetGraphs": [
         "net8.0"

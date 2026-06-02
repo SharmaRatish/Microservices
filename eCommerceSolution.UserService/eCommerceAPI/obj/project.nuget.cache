@@ -1,22 +1,24 @@
 {
   "version": 2,
-  "dgSpecHash": "siZJu9e2wqtKegDJqDfYPI8Ni9L/Cu5ft4b8gUFJRdQZ1tuTTpnakvPd/XFJgd4qANf6USfcjbzsPpkxsvS0Dw==",
+  "dgSpecHash": "BdiaBnCzwCI=",
   "success": true,
-  "projectFilePath": "D:\\Udamy Learning .NET Project\\.NET Microservices with Azure DevOps & AKS  Basic to Master\\eCommerceSolution.UserService\\eCommerceAPI\\eCommerceAPI.csproj",
+  "projectFilePath": "F:\\RK_Sharma\\Microservices\\eCommerceSolution.UserService\\eCommerceAPI\\eCommerceAPI.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\asus\\.nuget\\packages\\automapper\\13.0.1\\automapper.13.0.1.nupkg.sha512",
-    "C:\\Users\\asus\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.0\\microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512",
-    "C:\\Users\\asus\\.nuget\\packages\\microsoft.extensions.options\\6.0.0\\microsoft.extensions.options.6.0.0.nupkg.sha512",
-    "C:\\Users\\asus\\.nuget\\packages\\microsoft.extensions.primitives\\6.0.0\\microsoft.extensions.primitives.6.0.0.nupkg.sha512",
-    "C:\\Users\\asus\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.19.5\\microsoft.visualstudio.azure.containers.tools.targets.1.19.5.nupkg.sha512",
-    "C:\\Users\\asus\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+    "C:\\Users\\admin\\.nuget\\packages\\automapper\\13.0.1\\automapper.13.0.1.nupkg.sha512",
+    "C:\\Users\\admin\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.0\\microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\admin\\.nuget\\packages\\microsoft.extensions.options\\6.0.0\\microsoft.extensions.options.6.0.0.nupkg.sha512",
+    "C:\\Users\\admin\\.nuget\\packages\\microsoft.extensions.primitives\\6.0.0\\microsoft.extensions.primitives.6.0.0.nupkg.sha512",
+    "C:\\Users\\admin\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.19.5\\microsoft.visualstudio.azure.containers.tools.targets.1.19.5.nupkg.sha512",
+    "C:\\Users\\admin\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
   ],
   "logs": [
     {
       "code": "NU1903",
       "level": "Warning",
-      "warningLevel": 1,
       "message": "Package 'AutoMapper' 13.0.1 has a known high severity vulnerability, https://github.com/advisories/GHSA-rvv3-g6hj-g44x",
+      "projectPath": "F:\\RK_Sharma\\Microservices\\eCommerceSolution.UserService\\eCommerceAPI\\eCommerceAPI.csproj",
+      "warningLevel": 1,
+      "filePath": "F:\\RK_Sharma\\Microservices\\eCommerceSolution.UserService\\eCommerceAPI\\eCommerceAPI.csproj",
       "libraryId": "AutoMapper",
       "targetGraphs": [
         "net8.0"
