@@ -10,3 +10,16 @@ D:\Udamy Learning .NET Project\.NET Microservices with Azure DevOps & AKS  Basic
 D:\Udamy Learning .NET Project\.NET Microservices with Azure DevOps & AKS  Basic to Master\eCommerceSolution.UserService\eCommerce.Core\obj\Debug\net8.0\refint\eCommerce.Core.dll
 D:\Udamy Learning .NET Project\.NET Microservices with Azure DevOps & AKS  Basic to Master\eCommerceSolution.UserService\eCommerce.Core\obj\Debug\net8.0\eCommerce.Core.pdb
 D:\Udamy Learning .NET Project\.NET Microservices with Azure DevOps & AKS  Basic to Master\eCommerceSolution.UserService\eCommerce.Core\obj\Debug\net8.0\ref\eCommerce.Core.dll
+F:\RK_Sharma\Microservices\eCommerceSolution.UserService\eCommerce.Core\bin\Debug\net8.0\eCommerce.Core.deps.json
+F:\RK_Sharma\Microservices\eCommerceSolution.UserService\eCommerce.Core\bin\Debug\net8.0\eCommerce.Core.dll
+F:\RK_Sharma\Microservices\eCommerceSolution.UserService\eCommerce.Core\bin\Debug\net8.0\eCommerce.Core.pdb
+F:\RK_Sharma\Microservices\eCommerceSolution.UserService\eCommerce.Core\obj\Debug\net8.0\eCommerce.Core.csproj.AssemblyReference.cache
+F:\RK_Sharma\Microservices\eCommerceSolution.UserService\eCommerce.Core\obj\Debug\net8.0\eCommerce.Core.GeneratedMSBuildEditorConfig.editorconfig
+F:\RK_Sharma\Microservices\eCommerceSolution.UserService\eCommerce.Core\obj\Debug\net8.0\eCommerce.Core.AssemblyInfoInputs.cache
+F:\RK_Sharma\Microservices\eCommerceSolution.UserService\eCommerce.Core\obj\Debug\net8.0\eCommerce.Core.AssemblyInfo.cs
+F:\RK_Sharma\Microservices\eCommerceSolution.UserService\eCommerce.Core\obj\Debug\net8.0\eCommerce.Core.csproj.CoreCompileInputs.cache
+F:\RK_Sharma\Microservices\eCommerceSolution.UserService\eCommerce.Core\obj\Debug\net8.0\eCommerce.Core.sourcelink.json
+F:\RK_Sharma\Microservices\eCommerceSolution.UserService\eCommerce.Core\obj\Debug\net8.0\eCommerce.Core.dll
+F:\RK_Sharma\Microservices\eCommerceSolution.UserService\eCommerce.Core\obj\Debug\net8.0\refint\eCommerce.Core.dll
+F:\RK_Sharma\Microservices\eCommerceSolution.UserService\eCommerce.Core\obj\Debug\net8.0\eCommerce.Core.pdb
+F:\RK_Sharma\Microservices\eCommerceSolution.UserService\eCommerce.Core\obj\Debug\net8.0\ref\eCommerce.Core.dll

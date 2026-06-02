@@ -30,3 +30,44 @@ D:\Udamy Learning .NET Project\.NET Microservices with Azure DevOps & AKS  Basic
 D:\Udamy Learning .NET Project\.NET Microservices with Azure DevOps & AKS  Basic to Master\eCommerceSolution.UserService\eCommerceAPI\obj\Debug\net8.0\eCommerceAPI.genruntimeconfig.cache
 D:\Udamy Learning .NET Project\.NET Microservices with Azure DevOps & AKS  Basic to Master\eCommerceSolution.UserService\eCommerceAPI\obj\Debug\net8.0\ref\eCommerceAPI.dll
 D:\Udamy Learning .NET Project\.NET Microservices with Azure DevOps & AKS  Basic to Master\eCommerceSolution.UserService\eCommerceAPI\bin\Debug\net8.0\AutoMapper.dll
+F:\RK_Sharma\Microservices\eCommerceSolution.UserService\eCommerceAPI\obj\Debug\net8.0\eCommerceAPI.csproj.AssemblyReference.cache
+F:\RK_Sharma\Microservices\eCommerceSolution.UserService\eCommerceAPI\obj\Debug\net8.0\rpswa.dswa.cache.json
+F:\RK_Sharma\Microservices\eCommerceSolution.UserService\eCommerceAPI\obj\Debug\net8.0\eCommerceAPI.GeneratedMSBuildEditorConfig.editorconfig
+F:\RK_Sharma\Microservices\eCommerceSolution.UserService\eCommerceAPI\obj\Debug\net8.0\eCommerceAPI.AssemblyInfoInputs.cache
+F:\RK_Sharma\Microservices\eCommerceSolution.UserService\eCommerceAPI\obj\Debug\net8.0\eCommerceAPI.AssemblyInfo.cs
+F:\RK_Sharma\Microservices\eCommerceSolution.UserService\eCommerceAPI\obj\Debug\net8.0\eCommerceAPI.csproj.CoreCompileInputs.cache
+F:\RK_Sharma\Microservices\eCommerceSolution.UserService\eCommerceAPI\obj\Debug\net8.0\eCommerceAPI.MvcApplicationPartsAssemblyInfo.cache
+F:\RK_Sharma\Microservices\eCommerceSolution.UserService\eCommerceAPI\obj\Debug\net8.0\eCommerceAPI.sourcelink.json
+F:\RK_Sharma\Microservices\eCommerceSolution.UserService\eCommerceAPI\obj\Debug\net8.0\eCommerceAPI.dll
+F:\RK_Sharma\Microservices\eCommerceSolution.UserService\eCommerceAPI\obj\Debug\net8.0\refint\eCommerceAPI.dll
+F:\RK_Sharma\Microservices\eCommerceSolution.UserService\eCommerceAPI\obj\Debug\net8.0\eCommerceAPI.pdb
+F:\RK_Sharma\Microservices\eCommerceSolution.UserService\eCommerceAPI\bin\Debug\net8.0\appsettings.Development.json
+F:\RK_Sharma\Microservices\eCommerceSolution.UserService\eCommerceAPI\bin\Debug\net8.0\appsettings.json
+F:\RK_Sharma\Microservices\eCommerceSolution.UserService\eCommerceAPI\bin\Debug\net8.0\eCommerceAPI.staticwebassets.endpoints.json
+F:\RK_Sharma\Microservices\eCommerceSolution.UserService\eCommerceAPI\bin\Debug\net8.0\eCommerceAPI.exe
+F:\RK_Sharma\Microservices\eCommerceSolution.UserService\eCommerceAPI\bin\Debug\net8.0\eCommerceAPI.deps.json
+F:\RK_Sharma\Microservices\eCommerceSolution.UserService\eCommerceAPI\bin\Debug\net8.0\eCommerceAPI.runtimeconfig.json
+F:\RK_Sharma\Microservices\eCommerceSolution.UserService\eCommerceAPI\bin\Debug\net8.0\eCommerceAPI.dll
+F:\RK_Sharma\Microservices\eCommerceSolution.UserService\eCommerceAPI\bin\Debug\net8.0\eCommerceAPI.pdb
+F:\RK_Sharma\Microservices\eCommerceSolution.UserService\eCommerceAPI\bin\Debug\net8.0\AutoMapper.dll
+F:\RK_Sharma\Microservices\eCommerceSolution.UserService\eCommerceAPI\bin\Debug\net8.0\eCommerce.Core.dll
+F:\RK_Sharma\Microservices\eCommerceSolution.UserService\eCommerceAPI\bin\Debug\net8.0\eCommerce.Infrastructure.dll
+F:\RK_Sharma\Microservices\eCommerceSolution.UserService\eCommerceAPI\bin\Debug\net8.0\eCommerce.Core.pdb
+F:\RK_Sharma\Microservices\eCommerceSolution.UserService\eCommerceAPI\bin\Debug\net8.0\eCommerce.Infrastructure.pdb
+F:\RK_Sharma\Microservices\eCommerceSolution.UserService\eCommerceAPI\obj\Debug\net8.0\rjimswa.dswa.cache.json
+F:\RK_Sharma\Microservices\eCommerceSolution.UserService\eCommerceAPI\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
+F:\RK_Sharma\Microservices\eCommerceSolution.UserService\eCommerceAPI\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
+F:\RK_Sharma\Microservices\eCommerceSolution.UserService\eCommerceAPI\obj\Debug\net8.0\scopedcss\bundle\eCommerceAPI.styles.css
+F:\RK_Sharma\Microservices\eCommerceSolution.UserService\eCommerceAPI\obj\Debug\net8.0\staticwebassets.build.json
+F:\RK_Sharma\Microservices\eCommerceSolution.UserService\eCommerceAPI\obj\Debug\net8.0\staticwebassets.build.json.cache
+F:\RK_Sharma\Microservices\eCommerceSolution.UserService\eCommerceAPI\obj\Debug\net8.0\staticwebassets.development.json
+F:\RK_Sharma\Microservices\eCommerceSolution.UserService\eCommerceAPI\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+F:\RK_Sharma\Microservices\eCommerceSolution.UserService\eCommerceAPI\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+F:\RK_Sharma\Microservices\eCommerceSolution.UserService\eCommerceAPI\obj\Debug\net8.0\eCommerc.8979C4ED.Up2Date
+F:\RK_Sharma\Microservices\eCommerceSolution.UserService\eCommerceAPI\obj\Debug\net8.0\eCommerceAPI.genruntimeconfig.cache
+F:\RK_Sharma\Microservices\eCommerceSolution.UserService\eCommerceAPI\obj\Debug\net8.0\ref\eCommerceAPI.dll
+F:\RK_Sharma\Microservices\eCommerceSolution.UserService\eCommerceAPI\bin\Debug\net8.0\Dapper.dll
+F:\RK_Sharma\Microservices\eCommerceSolution.UserService\eCommerceAPI\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Abstractions.dll
+F:\RK_Sharma\Microservices\eCommerceSolution.UserService\eCommerceAPI\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+F:\RK_Sharma\Microservices\eCommerceSolution.UserService\eCommerceAPI\bin\Debug\net8.0\Npgsql.dll
+F:\RK_Sharma\Microservices\eCommerceSolution.UserService\eCommerceAPI\bin\Debug\net8.0\System.Diagnostics.DiagnosticSource.dll
