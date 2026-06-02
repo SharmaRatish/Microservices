@@ -29,20 +29,21 @@ internal class UserService : IUserService
     public async Task<AuthenticationResponse?> Register(RegisterRequest registerRequest)
     {
         //Create a bew ApplicationUser object from RegisrerRequest
-        ApplicationUser user = new ApplicationUser()
+        /*ApplicationUser user = new ApplicationUser()
         {
             PersonName = registerRequest.PersonName,
             Email = registerRequest.Email,
             Password = registerRequest.Password,
             Gender = registerRequest.Gender.ToString()
-        };
-      ApplicationUser? registerUser = await  _userRepository.AddUser(user);
+        };*/
+        ApplicationUser user = _mapper.Map<ApplicationUser>(registerRequest); 
+        ApplicationUser? registerUser = await _userRepository.AddUser(user);
         if (registerUser == null)
         {
             return null;
         }
         //return new AuthenticationResponse(registerUser.UserID, registerUser.Email, registerUser.PersonName, registerUser.Gender,    "token",Success:true);
 
-        return _mapper.Map<AuthenticationResponse>(user) with { Success = true, Token = "token"};
+        return _mapper.Map<AuthenticationResponse>(user) with { Success = true, Token = "token" };
     }
 }
