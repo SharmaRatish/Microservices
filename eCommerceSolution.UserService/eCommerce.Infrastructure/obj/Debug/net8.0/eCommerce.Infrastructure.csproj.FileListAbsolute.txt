@@ -1,0 +1,15 @@
+D:\Udamy Learning .NET Project\.NET Microservices with Azure DevOps & AKS  Basic to Master\eCommerceSolution.UserService\eCommerce.Infrastructure\bin\Debug\net8.0\eCommerce.Infrastructure.deps.json
+D:\Udamy Learning .NET Project\.NET Microservices with Azure DevOps & AKS  Basic to Master\eCommerceSolution.UserService\eCommerce.Infrastructure\bin\Debug\net8.0\eCommerce.Infrastructure.dll
+D:\Udamy Learning .NET Project\.NET Microservices with Azure DevOps & AKS  Basic to Master\eCommerceSolution.UserService\eCommerce.Infrastructure\bin\Debug\net8.0\eCommerce.Infrastructure.pdb
+D:\Udamy Learning .NET Project\.NET Microservices with Azure DevOps & AKS  Basic to Master\eCommerceSolution.UserService\eCommerce.Infrastructure\bin\Debug\net8.0\eCommerce.Core.dll
+D:\Udamy Learning .NET Project\.NET Microservices with Azure DevOps & AKS  Basic to Master\eCommerceSolution.UserService\eCommerce.Infrastructure\bin\Debug\net8.0\eCommerce.Core.pdb
+D:\Udamy Learning .NET Project\.NET Microservices with Azure DevOps & AKS  Basic to Master\eCommerceSolution.UserService\eCommerce.Infrastructure\obj\Debug\net8.0\eCommerce.Infrastructure.csproj.AssemblyReference.cache
+D:\Udamy Learning .NET Project\.NET Microservices with Azure DevOps & AKS  Basic to Master\eCommerceSolution.UserService\eCommerce.Infrastructure\obj\Debug\net8.0\eCommerce.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\Udamy Learning .NET Project\.NET Microservices with Azure DevOps & AKS  Basic to Master\eCommerceSolution.UserService\eCommerce.Infrastructure\obj\Debug\net8.0\eCommerce.Infrastructure.AssemblyInfoInputs.cache
+D:\Udamy Learning .NET Project\.NET Microservices with Azure DevOps & AKS  Basic to Master\eCommerceSolution.UserService\eCommerce.Infrastructure\obj\Debug\net8.0\eCommerce.Infrastructure.AssemblyInfo.cs
+D:\Udamy Learning .NET Project\.NET Microservices with Azure DevOps & AKS  Basic to Master\eCommerceSolution.UserService\eCommerce.Infrastructure\obj\Debug\net8.0\eCommerce.Infrastructure.csproj.CoreCompileInputs.cache
+D:\Udamy Learning .NET Project\.NET Microservices with Azure DevOps & AKS  Basic to Master\eCommerceSolution.UserService\eCommerce.Infrastructure\obj\Debug\net8.0\eCommerce.Infrastructure.csproj.CopyComplete
+D:\Udamy Learning .NET Project\.NET Microservices with Azure DevOps & AKS  Basic to Master\eCommerceSolution.UserService\eCommerce.Infrastructure\obj\Debug\net8.0\eCommerce.Infrastructure.dll
+D:\Udamy Learning .NET Project\.NET Microservices with Azure DevOps & AKS  Basic to Master\eCommerceSolution.UserService\eCommerce.Infrastructure\obj\Debug\net8.0\refint\eCommerce.Infrastructure.dll
+D:\Udamy Learning .NET Project\.NET Microservices with Azure DevOps & AKS  Basic to Master\eCommerceSolution.UserService\eCommerce.Infrastructure\obj\Debug\net8.0\eCommerce.Infrastructure.pdb
+D:\Udamy Learning .NET Project\.NET Microservices with Azure DevOps & AKS  Basic to Master\eCommerceSolution.UserService\eCommerce.Infrastructure\obj\Debug\net8.0\ref\eCommerce.Infrastructure.dll
