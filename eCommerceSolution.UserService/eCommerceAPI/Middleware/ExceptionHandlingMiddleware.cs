@@ -21,7 +21,6 @@ public class ExceptionHandlingMiddleware
         try
         {
             await _next(httpContext);
-            Console.WriteLine( );
         }
         catch (Exception ex)
         {
